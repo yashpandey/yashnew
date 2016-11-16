@@ -1,0 +1,11 @@
+&lt;suite name="testNGSuite" &gt;
+
+ &lt;test name="TestSuite" &gt;
+
+ &lt;classes&gt; &lt;class name="com.training.ParameterWithTestNGXML" /&gt;
+
+ &lt;/classes&gt;
+
+ &lt;/test&gt;
+
+ &lt;/suite&gt;
